@@ -1,4 +1,4 @@
-# Mitochondrial-Fission-Finder
+# Mitochondrial-Fission-Finder             [![DOI](https://zenodo.org/badge/1008948478.svg)](https://doi.org/10.5281/zenodo.15752043)
 ![image](https://github.com/user-attachments/assets/52fc410a-733f-4bee-aba5-e5005c6a2f98)
 
 
